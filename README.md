@@ -15,7 +15,7 @@ Passionate about building things on the web and exploring the possibilities of A
 ## 🚀 Projects
 
 ### 🕹️ [Tanjiro: The Swordsmith](https://github.com/jiraphatnam2204/final-project-progmeth)
-A 2D top-down action RPG built with Java and JavaFX, inspired by *Demon Slayer: Kimetsu no Yaiba*. Mine ores, craft gear, and battle iconic demon bosses.
+**Tanjiro: The Swordsmith** is a 2D top-down action RPG built with Java and JavaFX, inspired by *Demon Slayer: Kimetsu no Yaiba*. Mine ores, craft gear, and battle iconic demon bosses.
 
 
 ### 🛠️ [Online Job Fair Registration API](https://github.com/2110503-CEDT68/be-project-68-dbraja)
