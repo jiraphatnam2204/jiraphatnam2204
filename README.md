@@ -1,6 +1,6 @@
 # Hi, I'm James (Jirphat Namvong) 👋
 
-I'm a first-year Computer Engineering student at **Chulalongkorn University**, Bangkok.  
+I'm a first-year Computer Engineering & Digital Technology student at **Chulalongkorn University**, Bangkok.  
 Passionate about building things on the web and exploring the possibilities of AI.
 
 ---
@@ -15,11 +15,11 @@ Passionate about building things on the web and exploring the possibilities of A
 ## 🚀 Projects
 
 ### 🕹️ [Tanjiro: The Swordsmith](https://github.com/jiraphatnam2204/final-project-progmeth)
-A 2D top-down action RPG built with Java and JavaFX, inspired by Demon Slayer: Kimetsu no Yaiba. Mine ores, craft gear, and battle iconic demon bosses.
+A 2D top-down action RPG built with Java and JavaFX, inspired by *Demon Slayer: Kimetsu no Yaiba*. Mine ores, craft gear, and battle iconic demon bosses.
 
 
 ### 🛠️ [Online Job Fair Registration API](https://github.com/2110503-CEDT68/be-project-68-dbraja)
-The Online Job Fair Registration API is a robust backend system built with Node.js, Express, and MongoDB. It's designed to manage job fair registrations, allowing users to browse participating companies and book interviews/registrations within a controlled environment.
+The **Online Job Fair Registration API** is a robust backend system built with Node.js, Express, and MongoDB. It's designed to manage job fair registrations, allowing users to browse participating companies and book interviews/registrations within a controlled environment.
 
 ---
 
