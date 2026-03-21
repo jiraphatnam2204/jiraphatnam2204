@@ -1,6 +1,6 @@
 # Hi, I'm James (Jirphat Namvong) 👋
 
-I'm a first-year Computer Engineering & Digital Technology student at **Chulalongkorn University**, Bangkok.  
+I'm a first-year **Computer Engineering & Digital Technology** student at **Chulalongkorn University**, Bangkok.  
 Passionate about building things on the web and exploring the possibilities of AI.
 
 ---
