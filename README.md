@@ -26,7 +26,7 @@ Passionate about building things on the web and exploring the possibilities of A
 
 ---
 
-### 📊 GitHub Stats
+## 📊 GitHub Stats
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=jiraphatnam2204&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jiraphatnam2204&layout=compact&theme=radical)
 
