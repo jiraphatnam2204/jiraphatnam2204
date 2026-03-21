@@ -14,12 +14,12 @@ Passionate about building things on the web and exploring the possibilities of A
 
 ## 🏗️ Featured Projects
 
-### 🕹️ [Tanjiro: The Swordsmith](link)
+### 🕹️ [Tanjiro: The Swordsmith](https://github.com/jiraphatnam2204/final-project-progmeth)
 *A 2D Action RPG built with Java and JavaFX.*
 - **Key Challenge:** Managed complex game states and object interactions using Object-Oriented principles.
 - **Tech:** Java, JavaFX.
 
-### 💼 [Job Fair Registration API](link)
+### 💼 [Job Fair Registration API](https://github.com/2110503-CEDT68/be-project-68-dbraja)
 *Backend system for interview scheduling and user management.*
 - **Key Challenge:** Designed a RESTful API to handle concurrent registration requests and data validation.
 - **Tech:** Node.js, Express, MongoDB.
