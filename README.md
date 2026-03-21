@@ -12,24 +12,30 @@ Passionate about building things on the web and exploring the possibilities of A
 
 ---
 
-## 🚀 Projects
+## 🏗️ Featured Projects
 
-### 🕹️ [Tanjiro: The Swordsmith](https://github.com/jiraphatnam2204/final-project-progmeth)
-**Tanjiro: The Swordsmith** is a 2D top-down action RPG built with Java and JavaFX, inspired by *Demon Slayer: Kimetsu no Yaiba*. Mine ores, craft gear, and battle iconic demon bosses.
+### 🕹️ [Tanjiro: The Swordsmith](link)
+*A 2D Action RPG built with Java and JavaFX.*
+- **Key Challenge:** Managed complex game states and object interactions using Object-Oriented principles.
+- **Tech:** Java, JavaFX.
 
+### 💼 [Job Fair Registration API](link)
+*Backend system for interview scheduling and user management.*
+- **Key Challenge:** Designed a RESTful API to handle concurrent registration requests and data validation.
+- **Tech:** Node.js, Express, MongoDB.
 
-### 🛠️ [Online Job Fair Registration API](https://github.com/2110503-CEDT68/be-project-68-dbraja)
-The **Online Job Fair Registration API** is a robust backend system built with Node.js, Express, and MongoDB. It's designed to manage job fair registrations, allowing users to browse participating companies and book interviews/registrations within a controlled environment.
+---
+
+### 📊 GitHub Stats
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=jiraphatnam2204&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jiraphatnam2204&layout=compact&theme=radical)
 
 ---
 
-## 🧰 Tech Stack
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-
----
+## 🛠️ Tech Stack & Tools
+| Category | Technologies |
+| :--- | :--- |
+| **Languages** | Java, JavaScript (ES6+), HTML/CSS |
+| **Frameworks** | Node.js, Express, Next.js, JavaFX |
+| **Databases** | MongoDB, PostgreSQL |
+| **DevOps/Tools** | Git, GitHub, Redux Toolkit |
