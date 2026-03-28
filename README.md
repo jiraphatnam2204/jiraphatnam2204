@@ -14,13 +14,13 @@ Passionate about building things on the web and exploring the possibilities of A
 
 ## 🏗️ Featured Projects
 
-### 💼 [Frontend - Online Job Fair Registration](https://github.com/jiraphatnam2204/online-job-fair-registration-frontend)
+### 💼 [Frontend - Online Job Fair Registration](https://github.com/jiraphatnam2204/fe-project-68-dbraja)
 
 _Frontend web app for a Online Job Fair Registration platform where users can browse participating companies, book interview slots, and manage registrations._
 
 - **Tech:** React, Next.js, Tailwind CSS
 
-### 🔧 [Backend - Online Job Fair Registration API](https://github.com/jiraphatnam2204/online-job-fair-registration-backend)
+### 🔧 [Backend - Online Job Fair Registration API](https://github.com/jiraphatnam2204/be-project-68-dbraja)
 
 _A robust backend system built with Node.js, Express, and MongoDB for managing job fair registrations. This API enables users to browse participating companies and book interview slots while providing administrators with full control over the platform's data._
 
